@@ -1,3 +1,3 @@
-# dlsrhdwlsms tkrhksgkrry vmflzhtm rhkwp ahrck
+# 인공 지능 사관 학교 프리 코스 과제목차
 
 ## 1주차 과제(2020.05.21)
