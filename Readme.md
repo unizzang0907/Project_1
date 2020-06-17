@@ -8,3 +8,6 @@ https://github.com/unizzang0907/Project_1/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%
 
 ## 3주차 과제(2020.06.04)
 https://github.com/unizzang0907/Project_1/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
+
+## 4주차 과제(2020.06.11
+https://github.com/unizzang0907/Project_1/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
